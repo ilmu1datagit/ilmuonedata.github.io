@@ -4,7 +4,7 @@ email: contact@ilmuonedata.com
 description: 
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://ilmuonedata.github.io" # the base hostname & protocol for your site
+url: "https://ilmu1datagit.github.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 # data-ad-slot: 2973388149
